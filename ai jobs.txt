@@ -1,0 +1,103 @@
+Senior Data Scientist - Language Modeling and AI
+St. Louis, MO
+$131,635 - $224,136 a year
+
+Skills:
+Python, AI
+
+Job Description:
+
+At Edward Jones, we help clients achieve their serious, long-term financial goals by understanding their needs and implementing tailored solutions. To ensure a personal client experience, we have located our 15,000+ branch offices where our more than 7 million clients live and work.
+
+In a typical branch office, a financial advisor meets with clients and receives branch office support, so they can focus on building deep relationships with clients. Headquarters associates in St. Louis, Tempe and Mississauga provide support and expertise to help U.S. and Canada branch teams deliver an ideal client experience. We continue to grow to meet the needs of long-term individual investors.
+Join the Firm Analytics team and help us unlock the power of AI to solve a wide range of business challenges and improve the people-experience through AI-driven capabilities and insights. As a Senior Data Scientist focused on AI and LLM capabilities, you’ll be a thought leader in the space, identifying new opportunities to bring off-the-shelf solutions into our technology ecosystem and working closely with business partners to bring use cases to life that enhance our ability to serve our clients effectively. If you thrive in a collaborative environment, have a learning mindset, and can communicate complex ideas in a straightforward way, this could be the role for you to make a real impact.
+Work closely with business partners to translate their ideas and requirements into well-formed problems that enable hyper-personalized interactions.
+Build evaluation frameworks to measure LLMs efficacy, ground truth dataset quality, and guide product development roadmap.
+Interpret and communicate findings and recommendations to stakeholders, translating solutions into meaningful value propositions. Clear communication without technical jargon is important to success.
+Collaborate with cross-functional teams of business stakeholders, data engineers, ml-ops and digital teams to integrate language models into our data analytics products.
+Act as a mentor and help your teammates learn and grow.
+Stay up to date with industry trends and best practices in natural language programming techniques and tools.
+Master of Science Degree in Applied Mathematics, Statistics, Computer Science, or related field required. PhD desired
+9+ years professional experience
+Experience with NLP, LLMs, deep learning and working with typical data used in such models
+Strong programming skills in one or more programming languages (Python, R, Scala), and proficiency in popular deep learning frameworks like TensorFlow or PyTorch.
+
+Candidates that live within in a commutable distance from our Tempe, AZ and St. Louis, MO home office locations are expected to work in the office three days per week, with preference for Tuesday through Thursday.
+100 Best Workplaces for Millennials in 2022, published Fortune July 2022, Great Places to Work® data as of March 2022. Compensation provided for using, not obtaining, the rating.
+Edward Jones was recognized as one of the Best Workplaces for Millennials by Great Places to Work® and Fortune® magazine. The privately held firm ranked No. 2 overall, in its fourth appearance on the list.
+2022 Fortune Best Workplaces for Women, published September 2022, research by Great Places to Work®, data as of August 2021. Compensation provided for using, not obtaining, the rating.
+Edward Jones has been named to the 2022 Best Workplaces for Women list by Great Places to Work® and Fortune® magazine, ranking No. 45.
+2022 Fortune's 100 Best Companies to Work For, published April 2022, research by Great Place to Work®, data as of August 2021. Compensation provided for using, not obtaining, the rating.
+For the 23rd time, Edward Jones has earned a spot on the Fortune 100 Best Companies to Work For® ranking by Great Places to Work® and Fortune® magazine. Edward Jones ranked No. 35 on the prestigious 2022 list.
+2022 Best Places to Work For LGBTQ+ Equality, Great Place to Work® in partnership with Human Rights Campaign Foundation, published Equity Magazine January 2022, data as of July 2021. Compensation provided for using, not obtaining, the rating.
+Edward Jones scored 100 percent on the Human Rights Campaign Foundation's 2022 Corporate Equality Index (CEI) the nation's foremost benchmarking survey and report measuring corporate policies and practices related to LGBTQ+ workplace equality. The ranking designated Jones as one of the best places to work for LGBTQ+Equality.
+Edward Jones does not discriminate on the basis of race, color, gender, religion, national origin, age, disability, sexual orientation, pregnancy, veteran status, genetic information or any other basis prohibited by applicable law.
+At Edward Jones, we value and respect our associates and their contributions, and we recognize individual efforts through a rewards program that promotes a long-term career, financial security and well-being. Visit our career site to learn more about our total compensation approach, which in addition to base salary, typically includes benefits, bonuses and profit sharing. The salary range for this role is based on national data and actual pay is based on skills, experience, education, and other relevant factors for a potential new associate:
+
+Salary: $131635 - $224136
+
+=======================================================================================
+AI researcher / Scientist
+San Diego, CA
+Up to $280,000 a year
+
+Skills:
+Natural language processing, Machine learning frameworks, Deep learning, Computer vision, Research
+
+Job Description:
+
+We are a social information technology startup company seeking Artificial Intelligence researchers/scientists. You will be working on a new product line, providing you with the opportunity to make a significant impact and shape the multi-year roadmap.
+
+As one of the early-stage core team members, you will have founding team stock options. So don't wait.
+
+Opportunities:
+
+A great degree of freedom to initiate and shape this groundbreaking product.
+Working with some of the greatest mind in the forefront of the technology to shape the future of this world.
+Chance to become the core mind to shape the A.I. industry landscape in the next few years.
+Qualifications:
+
+Ph.D. graduate/candidate with research background in NLP, DL
+Knowledge of Transformer Model
+Experience in working with major Open source GAI like Open AI
+Experience in areas like LLM pretrain; interpretable LLM; LLM evaluation; responsible LLMs; LLM alignment are preferred.
+Candidates with influential open-source projects or publications at top-tier AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL) are preferred.
+Strong sense of responsibility, good learning ability, communication ability, and self-motivation.
+Good communication and collaboration skills, able to explore new technologies with the team and promote technological progress.
+*THIS IS AN EARLY STAGE STARTUP FOUNDING TEAM POSITION. STOCK OPTIONS ARE THE PRIMARY FORM OF YOUR COMPENSATION.*
+
+Job Types: Full-time, Part-time, Internship
+
+Pay: Up to $280,000.00 per year
+
+========================================================================================
+GenAI Engineer
+New York, NY
+$200,000 - $300,000 a year
+
+Skills:
+Python, C++, Analysis skills, AI, TensorFlow, PyTorch, Natural language processing, Machine learning frameworks, Machine learning
+
+Job Description:
+
+Responsibilities:
+
+Design and develop AI prompt techniques
+Experiment with hyperparameter tuning for large language models in different applications, including software and code generation
+Prompt, finetune, and chat with LLMs and understand how to produce best output
+Improve prompts based on performance testing and user feedback
+Perform data analysis to evaluate model performance and identify areas for improvement
+Develop and implement practical and measurable performance criteria for evaluating prompt and model performance
+Work with engineering and product teams to integrate prompts into applications and collaborate to identify and solve technical challenges and implement innovative solutions
+Keep up to date with the latest advancements in Generative AI, LLMs, and prompt engineering and bring new ideas to the team
+Write clear and concise technical documentation for models, algorithms, software tools and proof of concept use cases
+Qualifications:
+
+A Bachelor's degree in computer science, artificial intelligence, machine learning, or related field
+2+ years of experience in software engineering with a focus on working with large language models and prompt engineering
+Strong knowledge of programming languages such as Java, Python, or C++
+Experience with machine learning frameworks such as TensorFlow or PyTorch
+Experience in Natural Language Processing (NLP), especially in language modeling
+Experience with architecture and operation of large language models and generative models such as GPT, BERT, or T5
+Strong analytical and problem-solving skills
+Able to explain technical concepts to non-technical stakeholders

@@ -1,0 +1,106 @@
+SENIOR FULL STACK TYPESCRIPT DEVELOPER
+Ogden, UT
+$150,000 - $175,000 a year
+
+Skills:
+TypeScript, Test-driven development, Software development, JavaScript, Shell Scripting, Node.js, GraphQL, Git, Full-stack development, Docker, AWS, Unit testing, Ubuntu, Mac OS, Integration testing
+
+Job Description:
+
+Are you passionate about web development and ready to take on new challenges? If so, we want you to join our team as a Senior Full Stack TypeScript Developer at Jill’s Office. You will have the opportunity to work on cutting-edge projects and contribute to our mission of delivering exceptional customer service. Here are the criteria we’re looking for
+
+Requirements:
+
+Proficiency in full-stack TypeScript development with Node.js on the backend.
+Strong knowledge of JavaScript and web development.
+Advanced TypeScript skills, including type parameters, type guards, familiarity with TSConfig flags, etc.
+Experience with less common git operations, such as rebase --onto, rebase -i, etc.
+Competency in AWS services, including ECS, CDK, and RDS.
+Ability to create shell scripts for automation and system tasks.
+Skills in implementing native web components on the front end.
+Familiarity with Vite and Rollup for efficient web application bundling.
+Experience in integration and unit testing using tools like Mocha, web-test-runner, and Playwright.
+Understanding of pure functions and functional programming principles.
+Proficiency in Docker for containerization.
+Knowledge of GraphQL for efficient data retrieval and manipulation.
+Experience with NPM mono-repos for scalable and modular code.
+Perks:
+
+Can use your choice of Ubuntu, Windows, or macOS
+Medical, Dental, and Vision coverage to ensure your health and well-being.
+Short Term Disability coverage to provide financial security in case of unexpected events.
+Life Insurance to protect your loved ones.
+Holiday pay to enjoy your favorite holidays with your family and friends.
+Generous Paid Time Off (PTO) to help you maintain a healthy work-life balance.
+Vasa Membership to support your fitness and well-being.
+Eligibility for an IRA (Individual Retirement Account) after one year of service to plan for your future.
+If you’re excited about working on innovative projects and want to be part of a company that values creativity and exceptional customer service, we encourage you to apply. Join us at Jill’s Office and be a part of a team that’s making a real impact. Your skills and passion for development are what we need to continue delivering the Jill Experience. Jill’s Office is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Job Type: Full-time
+
+Pay: $150,000.00 - $175,000.00 per year
+
+=====================================================================================================
+Software Developer
+Quantico, VA
+$150,000 - $185,000 a year
+
+Skills
+Node.js, MySQL, JavaScript, Docker, Windows, jQuery, Computer science, Visual Studio, Authentication, Active Directory, NoSQL, Microsoft Access, Database management
+
+Job Description:
+The Software Developer shall perform software programming, integration, and programmatic technical support for the customer. The Software Developer shall work with and integrate into an enterprise environment, utilizing SAML/OAUTH, Zero Trust, and Active Directory with various IDP providers. The Software Developer shall design software tools that include system calls to other third-party tools and utilities specified by the customer. They shall customize and adapt third party applications and code to meet operational, administrative, and analytic requirements in coordination with other Developers, Engineers, and Administrators. The Software Developer shall support the unit with other duties as assigned within the scope of work.
+
+The Software Developer will be expected to translate detailed design into computer software; Tests, debugs, and refines the computer software to generate the required software enhancements and system components. They must be able to prepare both program-level and user-level documentation as well as enhance software and database queries to reduce operating time or improve efficiency. This position may provide technical direction to programmers to ensure program deadlines are met. In addition, they may convert legacy media into digitized formats to enable upload onto digital telephony collection systems.
+
+Must have active Top Secret Security Clearance and be eligible for SCI. Work is on the FBI Academy grounds on Quantico Marine Corps Base. On-site work is required Monday-Friday.
+
+Minimum/General Experience: Must have eight years or more of technical experience as an applications programmer on computer and database management systems. Specifically, must have five or more years of experience with high level programming languages:
+
+(C# preferred)
+Windows based OS (Windows 7 and higher is preferred)
+Microsoft Visual Studio (2008 version or higher)
+ASCII.
+This position requires experience with media file types including WAV and VOC; file systems including FAT32, NTFS, and UFS; and, NoSQL and Relational Database Management Systems (RDBMS) (MySQL preferred). This software developer position must possess an in-depth working knowledge and use of Microsoft Access and Excel, and formatting and processing large data files, using various types of scripts. The position requires a high degree of competency in analyzing functional business applications and design specifications for functional activities.
+
+Additional Requirements:· Familiar with SAML/OAUTH authentication models utilizing various IDP providers (i.e. ADFS, SAML aware applications). Proficient with JavaScript (i.e. Node, Sencha, JQuery). Familiar integrating front-end applications with MySQL (i.e. stored procedures, triggers, CRUD). Full-stack development capabilities. Develop and deploy docker containers
+
+Education Requirements :B.S. degree or equivalent in Computer Science or related field with 5 years of work experience.
+
+Job Type: Full-time
+
+Pay: $150,000.00 - $185,000.00 per year
+
+=======================================================================================================
+Lead Full Stack Engineer/Senior Full Stack Engineer/Senior Full Stack Developer
+Toronto, IL
+Up to $140,000.00
+
+Skills:
+TypeScript, React, Python, Node.js, Git, Full-stack development, CSS, Azure, AWS, APIs, AI, PostgreSQL, Google Cloud Platform
+
+Job Description:
+
+Join a trailblazing team at an entrepreneurial B2B SAAS development firm as a Lead Full Stack Engineer, where your expertise in front-end and back-end systems will revolutionize how product, marketing, and sales teams operate. Dive into the world of Generative AI, where your work will have a transformative impact, streamlining operations with innovative automation workflows. This position is a mix of Remote and in person to meet with peers and collaborate
+
+Why You Should Apply
+Be at the forefront of Generative AI technology applications.
+Autonomy to solve complex, cutting-edge problems.
+Collaborative environment with a focus on innovation and creativity.
+Opportunity to shape the future of a dynamic platform.
+Extremely Competitive salary range.
+
+What You’ll Be Doing
+Developing new features across various platform layers, including UI, server-side API, and serverless Python functions.
+Engaging in technical architecture discussions.
+Collaborating with the design team on UI/UX requirements and implementation.
+Following best practices in software development for code reusability and library creation.
+Working with the engineering and product teams to enhance usability and system scalability/stability.
+
+About You
+Be able to do the job as described.
+Deep proficiency in React, Node/Express, CSS frameworks (e.g., Material UI, Tailwind), and databases (e.g., PostgreSQL).
+Skilled in cloud infrastructures (AWS, GCP, Azure).
+Experience in Typescript, Python, and cross-browser compatibility issues.
+Familiarity with code versioning tools, notably Git.
+Experienced high level Engineer with proven track record.

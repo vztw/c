@@ -1,0 +1,119 @@
+Senior Full Stack Engineer
+Los Angeles, CA
+$135,000 - $160,000 a year
+
+Skills
+Databases, TypeScript, Redux, Node.js, Kubernetes, Full-stack development, Express.js, Docker, AWS, Software troubleshooting, SQL, React, CSS, S3, PostgreSQL, NoSQL
+
+Job Description:
+
+we're seeking a highly skilled Senior Full Stack Software Engineer to join our dynamic team and contribute to the development of innovative and scalable software solutions.
+
+Responsibilities
+
+Take full ownership of product features.
+Architect and build efficient and reusable front-end and back-end systems using NextJS for server-side rendering and React for front-end development.
+Implement responsive and visually appealing user interfaces using Tailwind CSS.
+Develop and optimize server-side logic, ensuring seamless integration between AWS S3 and our NoSQL database (Firestore).
+Collaborate with UX/UI to translate design concepts into functional and user-friendly applications.
+Troubleshoot, debug, and optimize applications for performance, scalability, and security.
+
+Requirements
+Bachelor’s or master’s degree in computer science or a related field.
+Minimum of 6 years’ experience as a full stack developer.
+Has built at least one full-stack web application from scratch.
+Strong proficiency in React, TypeScript, NextJS, and Firestore.
+Strong proficiency in a CSS framework, with preference given to experience with Tailwind CSS.
+Solid understanding of SQL databases such as PostgreSQL.
+Excellent problem solving and attention to detail.
+Ability to work independently or as part of a team.
+Experience with state-management frameworks such as Redux is a plus.
+Experience with Electron is a plus.
+Experience with Docker and Kubernetes is a plus.
+
+Job Type: Full-time
+Pay: $135,000.00 - $160,000.00 per year
+
+================================================================================================
+Senior Front End Developer
+Philadelphia, PA
+$125,000 - $160,000 a year
+
+Skills
+Unit testing, React, JavaScript, HTML5, Front-end development, Angular, AWS, Swift, Objective-C, Kotlin, Flutter, Vue.js, UX, UI development, UI, Azure, Agile, Xamarin, Project management methodology, Kanban, iOS, Product management, Data modeling, Cloud architecture
+
+Job Description:
+
+Joining the Technology team at PDS, the Senior Front-End Developer will take a central role in the organization, becoming a pivotal resource in the recrafting, development, and implementation of the organization's next-generation forward-facing architecture. This position provides an exciting opportunity to modernize an already successful, highly regarded production platform, and drive double-digit growth of the organization. This person will serve as a leader in the overall evolution and progression of the increasingly modern technology stack with fellow team members and drive the team toward new and emerging technologies and ways of thinking. The Senior Front-End Developer strives for excellence in delivering all aspects of the UI / UX realm, creating a new and better world from the opportunities at hand. The ideal candidate leverages their creative, development, delivery, support, and cognitive abilities to become a driving force as the organization shifts from its legacy implementation to a more loosely coupled platform, focused on mobile-first design, migration to the cloud, microservices architecture, RESTful API led connectivity, data-driven decision making, and a bold yet flexible presentation layer.
+
+ROLE AND RESPONSIBILITIES
+
+Serve as the enterprise Thought Leader on Front-End Technologies, Architecture, and Development
+Assess, Conceptualize and Advocate the new UI / UX Strategy for PDS Software providing the best digital experience for our clients and users
+Adopt, implement, and ensure consistent look and feel
+Translate vision goals into iterative wireframes, mockups, and prototypes on the road to Product Owner satisfaction
+Deliver striking and performant results through hands-on coding of front-end technology solutions
+Perform Unit Testing of technology solutions to validate business and non-functional specifications
+Promote team technology solutions to QA, and support iteration to successful completion
+Investigate and construct proof of concept introducing new and different technology solutions
+Cooperate in deployment and installation into development, testing, and production environments
+Participate with technical team providing support of code running in testing and production environments
+Create and support evolution of Technical Specification documentation addressing business and non-functional requirements
+QUALIFICATIONS
+
+5+ years of progressively increasing experience in application front-end UI / UX development
+Bachelor's Degree in Computer Science, Management of Information Systems, Creative Arts, etc.
+Fluid collaboration with Product Management, Quality Assurance, Support, and Technical Leadership teams
+Passion for detail, polish, and providing the best UI / UX experience to customers and users
+Mobile First design philosophy and attitude
+High level aptitude of mobile iOS and Android app development using technologies such as Objective-C, Swift, Flutter, Ionic, Kotlin, or Xamarin
+Advanced level implementation experience with front-end development, focused on CSS, HTML, and a JavaScript framework such as Svelte, Angular, React, or Vue
+Experience with RESTful API integration
+Understanding of data architecture, data modeling, data normalization, and data movement
+History of application deployment and allocation in AWS or MS Azure Cloud environment, including engagement with enterprise infrastructure, security, QA, and technical support teams
+Focus on defensive coding, analysis, sanitization, and other best practices to secure client information
+Agile project management methodology, including SCRUM and Kanban
+
+===================================================================================================
+UI Software Engineer
+Stamford, CT
+Up to $140,000.00
+
+Skills:
+TypeScript, React, Kubernetes, Angular, Data structures, Machine learning, CI/CD, Big data
+
+Job Description:
+
+We are committed to finding the world's best Engineers, and take the hiring of this type of talent very seriously. As a UI Software Engineer, you will support the build, implementation and ongoing development of the organisation's Treasury capability.
+
+Our UIs are written using Angular with Typescript, supported by a server-side platform built using C# .NET Core running on Kubernetes. We utilise modern web, distributed and big data technologies, meaning we have a broad range of software engineering challenges for the right person.
+
+This is an opportunity to be part of our journey to build a world-leading software engineering practice. We are working hard to embed a continuous improvement culture and philosophy across the organisation, striving to learn from the best practitioners in the industry.
+
+This role will suit an Engineer who is looking to contribute to the operational success of a leading quantitative finance research firm by creating well-designed and efficient user interfaces, ranging from reports and charting for senior management, to interactive tooling for daily operational activities.
+
+Examples of projects that the team are working on include:
+
+Developing a Treasury dashboard to bring together the financial data required to manage the daily cash flows, financing, inventory, margin management and excess capital
+Creating a plug-and-play architecture for onboarding new data sets for reporting and data investigation, including saving and sharing user preferences, data drill down, charting and alerting
+Building interactive tooling to enable trade entry, cash transfer approvals, reconciliation of margin and financing calculations
+Who are we looking for?
+
+The ideal candidate will have the following skills and experience:
+
+Front end experience using Typescript with Angular, React or similar
+An appreciation of good software architecture, computer science fundamentals, data structures and CI/CD
+A genuine interest in software technology
+Intellectual curiosity and a desire to learn about the Treasury space within quantitative finance, and engineering skills to support its continual development within the business
+Financial knowledge is beneficial, but this is not a requirement
+Why should you apply?
+
+Market-leading compensation plus annual discretionary bonus
+Excellent paid time off allowance
+Generous 401(k) plan
+Medical, Dental and Vision insurance
+Informal dress code and excellent work/life balance
+Parental leave
+Life and Accidental Death & Dismemberment (AD&D) insurance
+Substantial relocation allowance and support
+Great selection of office snacks, and hot and cold drinks

@@ -1,0 +1,142 @@
+Cryptography Engineer
+San Francisco Bay Area, CA
+$128,988.44 - $160,988.66 a year
+
+Skills
+Java, HTML5, Encryption, Computer science, AWS, Rust, REST, Python, Node.js, JavaScript, Azure, Angular, Agile, AI, Succession planning, Flutter, Dart, Computer vision, Banking, Full-stack development, Express.js, CSS
+
+Job Description:
+
+We are a SAAS startup actively looking for talented and driven individuals to join our team. In the role of a Cryptography engineer, you will contribute to the development of a groundbreaking global trust and estate planning platform, reshaping wealth management and succession planning. The ideal candidate is expected to possess a strong foundation as an agile full-stack developer with a background in cybersecurity.
+
+At Heir8fied, you’ll be working on:
+
+Finance Applications: Collaborate on applications for Brokerages, Wallets, and Banking Platforms.
+Web & Mobile Development: Design, build, and maintain front-end and back-end components for our web, IOS, and Android applications.
+Web3, Blockchain & Cryptography: Integrate technology for security, transparency, and efficiency enhancements.
+AI (Computer Vision): Contribute to cutting-edge research in computer vision, with a focus on deepfake prevention and real-world AI applications.
+Compliance: Work on a FinTech and Crypto project within the regulatory and legal framework.
+Security & Self-Verifying Solution: Build a secure platform while leveraging cryptography and state-of-the-art security.
+User Experience: Enhance accessibility and user satisfaction.
+Connect: Access insights and partnerships with industry giants like Google, Wolfram, Microsoft, OpenAI, Y Combinator, and others. Network with professionals from 287 prestigious institutions worldwide, including top universities like Stanford, UPenn, and Yale.
+Responsibilities:
+
+Craft high-quality software, web, and mobile applications.
+Engineer scalable and robust code for enterprise solutions.
+Discover and fix programming bugs.
+Perform security assessments and penetration testing to identify vulnerabilities in our systems and applications.
+Explore innovative use cases and solutions that leverage the unique properties of blockchain to enhance security, transparency, and efficiency.
+Keep on top of cutting-edge technologies such as A.I. (Computer Vision & Generative), Web3, blockchain protocols, and decentralized tech. Continuously research and evaluate emerging tools and best practices to enhance development.
+Stay current on cybersecurity threats and trends, sharing insights with the team to proactively address risks.
+Conduct research and analysis on emerging tools, frameworks, and best practices to continually improve development processes.
+Requirements:
+
+Technical Proficiency in Java, Node.js, Angular.js, Express.js, Python, Dart/Flutter, and fundamental front-end languages (HTML, CSS, JavaScript). Full stack development skills are preferred.
+Development experience as a full-stack developer.
+Cloud experience (Azure & AWS).
+Background in Infrastructure & Architecture.
+Experience in analyzing, designing, developing, and implementing REST and RESTful API.
+Ability to research, design, and build Web and Mobile applications.
+Background in Artificial Intelligence- with a focus on Computer Vision.
+Bachelor's degree or equivalent experience in Computer Science or a related field (including school projects and side projects).
+Excellent communication skills, both in-person and remote.
+Full English working proficiency.
+Preferred Qualifications:
+
+Experience in Banking, Finance, Fintech, and Crypto spaces.
+Proficiency in Web3 and Blockchain development, including experience with Solidity and Rust.
+Join us in shaping the future of finance. We invite you to apply and become a vital part of our team, where you'll work on projects across various industries like FinTech, RegTech, LegalTech, AI, Web3, and Blockchain. Join us on this exciting journey to reshape the FinTech landscape and revolutionize trust and estate planning!
+
+We are an early stage startup that built a promising product focused on serving financial institutions. We are looking to add another engineer to our team as we are on track to pursue Tier 1 funding within the next quarter.
+
+Job Type: Full-time
+
+Pay: $128,988.44 - $160,988.66 per year
+
+
+=============================================================================================
+Senior Software Engineer, Crypto Core (Backend)
+Seattle, WA
+$152,000 - $213,000 a year
+
+Skills
+Back-end development, Encryption
+
+Job Description:
+
+As an engineer on our wallet team, you'll be working as part of the core team of engineers responsible for supporting blockchain technologies across Gemini's platform. The team supports everything related to accepting deposits, issuing withdrawals, and the secure storage of cryptocurrency on the platform. This includes everything from key management and signing infrastructure to blockchain integrations and token additions.
+
+Responsibilities:
+
+Improve feedback cycles at all levels of development (examples: improving the experience of iterating on code locally, deploying to test environments, deploying to production).
+Quickly ramp up on relevant industry and competitive trends.
+Consistently delivers code that sets the standard for quality and maintainability.
+Build secure contract protocols and backend services to connect Gemini users with the crypto ecosystem.
+Systematically thinks through potential design impacts on other teams and the company.
+Review other software engineers' code for correctness, style, and information security concerns.
+Improve the performance, maintainability, and operations of the Gemini code base by engaging in occasional refactoring and upgrade projects.
+Qualifications:
+
+At least 5 years of software engineering experience.
+Expertise in Scala or in a similar backend programming languages, such as Java or C#.
+Identify and advocate for foundational work and practice improvements in their vertical.
+Genuinely passionate about working with developers and improving their experience and velocity.
+Technical aptitude around Blockchain Technology, Cryptography OR Custodian Services for Cryptocurrency.
+The ability to work closely across teams and manage dependencies.
+A customer- and product-focused mindset, with the ability to make well-reasoned tradeoffs between speed and quality.
+The ability to adapt and handle multiple competing priorities in collaboration with peers.
+Can successfully plan and execute projects involving multiple developers and complex requirements, prioritizing strategically.
+It Pays to Work Here
+The compensation & benefits package for this role includes:
+Competitive starting salary
+A discretionary annual bonus
+Long-term incentive in the form of a new hire equity grant
+Comprehensive health plans
+401K with company matching
+Annual Learning & Development stipend
+Paid Parental Leave
+Flexible time off
+Salary Range: The base salary range for this role is between $152,000 - $213,000 in the State of New York, the State of California and the State of Washington. This range is not inclusive of our discretionary bonus or equity package. When determining a candidate's compensation, we consider a number of factors including skillset, experience, job scope, and current market data.
+
+===========================================================================================================
+Full Stack Engineer (Nodejs/React/Solidity/DevOps)
+USA
+$160,000 - $220,000 a year
+
+Skills
+C++, APIs, Rust, TypeScript, Redis, React, PostgreSQL, Node.js, Kubernetes, Kafka, Elasticsearch, Docker, DevOps, AWS
+
+Job Description:
+You’ll be at the ground floor of scaling Tensor for the next 1 million traders and building the most sophisticated trading infrastructure & platform for NFTs in the world.
+
+You will:
+
+Ship new products for NFT traders: faster data, more capital efficiency, advanced order types
+
+Optimize and scale our data pipelines to handle O(1-10K) transactions/second at peak
+
+Own projects end-to-end: from front-end to backend APIs to data pipelines
+
+You are:
+
+Excited about web3/crypto/NFTs. We really cannot overstate this - you’ll be joining a team of web3 nerds
+A generalist with 3+ years of experience working on large-scale, data-intensive apps
+Experienced with React, NodeJS, Postgres, Redis and Docker (if you have experience with other modern stacks that’s totally fine too, as long as you’re a fast learner!)
+
+Bonus points for:
+Experience scaling data-rich consumer products, APIs & trading infrastructure to millions of users and O(terabytes) data
+Experience building real-time pipelines on AWS (Kinesis, Dynamo, SQS, RDS) and services on Kubernetes
+Experience optimizing React apps to handle hundreds of renders per minute
+Strong fundamentals in statistics, math, or quantitative finance
+Good intuition on when to move fast/break things vs when to move carefully
+Proficient in at least one low-level language
+
+Job Type: Full-time
+Salary: $160,000.00 - $220,000.00 per year
+
+Experience:
+
+Solidity/Web3/Blockchain: 3 years (Required)
+React, NodeJS, Postgres, Redis and Docker: 3 years (Required)
+
+======================================================================================================================
